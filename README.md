@@ -1,4 +1,4 @@
-#Computer Network Practical - Software Engineering
+Computer Network Practical - Software Engineering
 This repository contains practical exercises and materials for the Computer Network course taught to Software Engineering students. It covers essential networking concepts, including:
 
 Network topology and design
