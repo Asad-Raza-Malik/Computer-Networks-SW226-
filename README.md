@@ -1,4 +1,4 @@
-Computer Network Practical - Software Engineering
+#### Computer Network Practical - Software Engineering
 
 This repository contains practical exercises and materials for the Computer Network course taught to Software Engineering students. 
 at Mehran University of Engineering and Technology, SZAB Campus Khairpur Mir's 
